@@ -57,10 +57,10 @@ En resumen,el turismo en España es una sinfonía única de preferencias y tende
 
 # Links y recursos 🖇️
 
-[Library Pandas](https://pandas.pydata.org/)
-[Library Request](https://pypi.org/project/requests/)
-[Library Numpy](https://numpy.org/)
-[Api AEMET](https://opendata.aemet.es/centrodedescargas/inicio)
-[CSV INE](https://www.ine.es/jaxiT3/Tabla.htm?t=2074#downloadJSON=true)
-[Power BI](https://powerbi.microsoft.com/es-es/)
+- [Library Pandas](https://pandas.pydata.org/)
+- [Library Request](https://pypi.org/project/requests/)
+- [Library Numpy](https://numpy.org/)
+- [Api AEMET](https://opendata.aemet.es/centrodedescargas/inicio)
+- [CSV INE](https://www.ine.es/jaxiT3/Tabla.htm?t=2074#downloadJSON=true)
+- [Power BI](https://powerbi.microsoft.com/es-es/)
 
